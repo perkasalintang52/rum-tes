@@ -1,13 +1,13 @@
 {
-	"ownername":"Vlynn",
-	"ownernumber":"6281368971807",
-	"botname":"VlynnX",
-	"dana": "https://ibb.co/jZmhH6g",
-	"gopay": "https://ibb.co/jZmhH6g",
-	"ovo": "https://ibb.co/jZmhH6g",
-	"pulsa": "081368971807",
+	"ownername":"Mr. Bot Lintang",
+	"ownernumber":"6281322577123",
+	"botname":"Mr. Bot Lintang",
+	"dana": "081322577123",
+	"gopay": "081322577123",
+	"ovo": "081322577123",
+	"pulsa": "081322577123",
 	"thumbnail":"./settings/logo.jpg",
-	"background":"https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
+	"background":"https://imagizer.imageshack.com/img924/1945/1RBhKe.jpg",
 	"limit": {
 		"free":20,
 		"premium":1000
